@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import BlogSearch from './BlogSearch'
+import EventsSearch from './EventsSearch'
 import './PostCategoriesNav.css'
 
 const PostCategoriesNav = ({ categories, enableSearch }) => (
   <div className="PostCategoriesNav">
-    <Link className="NavLink" exact="true" to={`/blog/`}>
+    <Link className="NavLink" exact="true" to={`/events/`}>
       All
     </Link>
     {categories.map((category, index) => (
@@ -20,7 +20,7 @@ const PostCategoriesNav = ({ categories, enableSearch }) => (
       </Link>
     ))}
 
-    {enableSearch && <BlogSearch />}
+    {enableSearch && <EventsSearch />}
   </div>
 )
 

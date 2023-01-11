@@ -1,5 +1,5 @@
 ---
-template: BlogIndex
+template: EventsIndex
 title: News
 subtitle: ''
 featuredImage: >-

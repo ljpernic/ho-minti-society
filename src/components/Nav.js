@@ -72,8 +72,10 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
-            <div
+            <NavLink to="/projects/">Projects</NavLink>
+            <NavLink to="/events/">Events</NavLink>
+      {/* NOTE: The old functionality of a drop down menu on the nav bar is below. */}
+            {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
               }`}
@@ -81,7 +83,7 @@ export class Navigation extends Component {
               <span
                 className={`NavLink Nav--GroupParent ${
                   this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
+                  this.props.location.pathname.includes('events') ||
                   this.props.location.pathname.includes('post-categories')
                     ? 'active'
                     : ''
@@ -92,9 +94,9 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Blog
+                Events
                 <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
+                  <NavLink to="/events/" className="Nav--GroupLink">
                     All Posts
                   </NavLink>
                   {subNav.posts.map((link, index) => (
@@ -108,8 +110,9 @@ export class Navigation extends Component {
                   ))}
                 </div>
               </span>
-            </div>
-            <NavLink to="/default/">Default</NavLink>
+            </div> */}
+{/* NOTE: Adding things here puts links onto the nav bar  */}
+            {/* <NavLink to="/default/">Default</NavLink> */}
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button

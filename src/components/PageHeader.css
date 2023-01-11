@@ -1,15 +1,17 @@
+/* Changed .PageHeader from 15rem to 25rem to match the front page */
 .PageHeader {
   background-color: var(--darkGrey);
-  color: white;
-  padding: 15rem 0;
+  color: black;
+  padding: 25rem 0;
 }
 
 .PageHeader .BackgroundImage {
   opacity: 0.8;
 }
 
+/* NOTE: Changed this from 20rem to 25rem */
 .PageHeader-large {
-  padding: 20rem 0;
+  padding: 25rem 0;
 }
 
 .PageHeader--Title {
