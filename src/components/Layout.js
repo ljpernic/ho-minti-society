@@ -65,7 +65,7 @@ export default ({ children, meta, title }) => {
 
             <Meta
               googleTrackingId={googleTrackingId}
-              UPLOADCARE_PUBLIC_KEY={UPLOADCARE_PUBLIC_KEY}
+              UPLOADCARE_PUBLIC_KEY='1a455b51466494f0965e'
               absoluteImageUrl={
                 socialMediaCard &&
                 socialMediaCard.image &&

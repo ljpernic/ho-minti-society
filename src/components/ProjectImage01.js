@@ -63,18 +63,18 @@ export default class ProjectImage01 extends Component {
         }
       )
 
-  // componentDidMount() {
-  //   const { images } = this.props,
-  //     maxCount = images.length
-  //   let loopCount = 1
+  componentDidMount() {
+    const { images } = this.props,
+      maxCount = images.length
+    let loopCount = 1
 
-  //   for (let i in images) {
-  //     if (this.getImageInfo(images[i], i)) {
-  //       this.setState({ loaded: loopCount === maxCount })
-  //       loopCount++
-  //     }
-  //   }
-  // }
+    for (let i in images) {
+      if (this.getImageInfo(images[i], i)) {
+        this.setState({ loaded: loopCount === maxCount })
+        loopCount++
+      }
+    }
+  }
 
   render() {
     const { images } = this.props

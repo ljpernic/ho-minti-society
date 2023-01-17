@@ -81,9 +81,12 @@ export default class Meta extends Component {
         {UPLOADCARE_PUBLIC_KEY && (
           <script>
             {`
-              UPLOADCARE_PUBLIC_KEY = '${UPLOADCARE_PUBLIC_KEY}';
+              UPLOADCARE_PUBLIC_KEY = '1a455b51466494f0965e';
             `}
           </script>
+        )}
+        {UPLOADCARE_PUBLIC_KEY && (
+          <script charset="utf-8" src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
         )}
       </Helmet>
     )
