@@ -18,6 +18,7 @@ export default ({ children, meta, title }) => {
             siteTitle
             siteDescription
             googleTrackingId
+            UPLOADCARE_PUBLIC_KEY
             socialMediaCard {
               image
             }
@@ -40,7 +41,7 @@ export default ({ children, meta, title }) => {
         }
       `}
       render={data => {
-        const { siteTitle, socialMediaCard, googleTrackingId } =
+        const { siteTitle, socialMediaCard, googleTrackingId, UPLOADCARE_PUBLIC_KEY } =
             data.settingsYaml || {},
           subNav = {
             posts: data.allPosts.hasOwnProperty('edges')
@@ -64,6 +65,7 @@ export default ({ children, meta, title }) => {
 
             <Meta
               googleTrackingId={googleTrackingId}
+              UPLOADCARE_PUBLIC_KEY={UPLOADCARE_PUBLIC_KEY}
               absoluteImageUrl={
                 socialMediaCard &&
                 socialMediaCard.image &&

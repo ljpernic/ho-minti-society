@@ -12,8 +12,8 @@ locations:
     lng: '153.2432449'
     mapLink: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Contact the Ho Minti Society
+  title: Ho Minto Society
 ---
 
 # Example contact form

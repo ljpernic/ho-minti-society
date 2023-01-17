@@ -4,14 +4,37 @@ slug: projects
 title: Projects
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
 subtitle: This is the projects page subtitle.
-section1: >-
-  ## This is a container component
+project01: >-
+  ## Project 1
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
-section2: >-
+  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
+project02: >-
+  ## Project 2
+
+  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+
+
+  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
+project03: >-
+  ## Project 3
+
+  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+
+
+  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
+project04: >-
+  ## Project 4
+
+  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+
+
+  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
+project05: >-
+  Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery.
+projectVideoExample: >-
   ## You can use videos, images and text.
 
 
@@ -28,6 +51,22 @@ accordion:
     title: Taciti lorem
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
+projectImage01:
+  - alt: yellow rope image
+    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
+    title: Yellow Rope
+projectImage02:
+  - alt: umbrellas
+    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
+    title: A bunch of umbrellas
+projectImage03:
+  - alt: Third image
+    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
+    title: Third project image
+projectImage04:
+  - alt: Fourth image
+    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
+    title: Fourth project image
 gallery:
   - alt: yellow rope image
     image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
@@ -39,6 +78,10 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: This is a meta description.
-  title: Projects Page
+  description: The Ho Minti Society's ongoing projects in support of the Choctaw-Apache Tribe of Ebarb 
+  title: Ho Minti Society
 ---
+
+# This is a list of ongoing projects we do
+
+This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. 

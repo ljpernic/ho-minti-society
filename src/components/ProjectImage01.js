@@ -6,13 +6,13 @@ import Image from './Image'
 
 import _kebabCase from 'lodash/kebabCase'
 
-import './Gallery.css'
+import './ProjectImage.css'
 import 'react-photoswipe/lib/photoswipe.css'
 
 export const query = graphql`
-  fragment Gallery on MarkdownRemark {
+  fragment ProjectImage01 on MarkdownRemark {
     frontmatter {
-      gallery {
+      projectImage01 {
         alt
         image
         title
@@ -21,7 +21,7 @@ export const query = graphql`
   }
 `
 
-export default class Gallery extends Component {
+export default class ProjectImage01 extends Component {
   state = {
     loaded: false,
     isOpen: false,
@@ -63,33 +63,34 @@ export default class Gallery extends Component {
         }
       )
 
-  componentDidMount() {
-    const { images } = this.props,
-      maxCount = images.length
-    let loopCount = 1
+  // componentDidMount() {
+  //   const { images } = this.props,
+  //     maxCount = images.length
+  //   let loopCount = 1
 
-    for (let i in images) {
-      if (this.getImageInfo(images[i], i)) {
-        this.setState({ loaded: loopCount === maxCount })
-        loopCount++
-      }
-    }
-  }
+  //   for (let i in images) {
+  //     if (this.getImageInfo(images[i], i)) {
+  //       this.setState({ loaded: loopCount === maxCount })
+  //       loopCount++
+  //     }
+  //   }
+  // }
 
   render() {
     const { images } = this.props
     return (
       <Fragment>
         {images && images.length > 0 && (
-          <div className="Gallery">
+          <div className="ProjectImage">
             {images.map((image, index) => (
               <div
-                className="Gallery--Item"
+                className="ProjectImage--Item"
                 key={_kebabCase(image.alt) + '-' + index}
                 onClick={() => this.isOpen(true, index)}
                 onKeyDown={this.handleKeyDown}
                 tabIndex={0}
-                aria-label="Toggle Gallery"
+                // NOT SURE IF THIS SHOULD BE ProjectImage01 OR ProjectImage
+                aria-label="Toggle ProjectImage" 
                 role="button"
               >
                 <div>
@@ -120,6 +121,6 @@ export default class Gallery extends Component {
   }
 }
 
-Gallery.propTypes = {
+ProjectImage01.propTypes = {
   images: PropTypes.array.isRequired
 }

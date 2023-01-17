@@ -28,7 +28,8 @@ export default class Meta extends Component {
       canonicalLink,
       siteTitle,
       siteDescription,
-      googleTrackingId
+      googleTrackingId,
+      UPLOADCARE_PUBLIC_KEY
       // overwrite { title, description } if in fields or fields.meta
     } = this.props
 
@@ -74,6 +75,13 @@ export default class Meta extends Component {
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
               gtag('config', '${googleTrackingId}');
+            `}
+          </script>
+        )}
+        {UPLOADCARE_PUBLIC_KEY && (
+          <script>
+            {`
+              UPLOADCARE_PUBLIC_KEY = '${UPLOADCARE_PUBLIC_KEY}';
             `}
           </script>
         )}

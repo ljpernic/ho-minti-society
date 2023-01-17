@@ -3,10 +3,20 @@ import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
+import ProjectImage01 from '../components/ProjectImage01'
+import ProjectImage02 from '../components/ProjectImage02'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ 
+  title, 
+  subtitle, 
+  featuredImage, 
+  project01,
+  project02, 
+  projectImage01,
+  projectImage02,
+  body }) => (
   <main className="Home">
     <PageHeader
       large
@@ -15,17 +25,95 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       backgroundImage={featuredImage}
     />
 
-    <section className="section">
+{/* TOP SECTION */}
+    <section className="noLineSection">
       <div className="container">
         <Content source={body} />
       </div>
     </section>
+
+{/* JOIN BUTTON */}
+    <div className='projectContainer'>
+      <section className="buttonSection">
+        <div className="container Center">
+          <a href="/join" className="Button">Join</a>
+        </div>
+      </section>
+    </div>
+
+
+{/* PROJECTS HEADER */}
+    <section className="noLineSection">
+      <div className="container">
+        <h1>
+          Project highlights
+        </h1>
+      </div>
+    </section>
+
+{/* PROJECT ONE */}
+    <div className='projectContainer'>
+      <section className="imageSection">
+        <div className="container">
+          <ProjectImage01 images={projectImage01} />
+        </div>
+      </section>
+      <section className="">
+        <div className="container">
+          <Content source={project01} />
+        </div>
+      </section>
+    </div>
+
+{/* PROJECT TWO */}
+    <div className='projectContainer'>
+      <section className="imageSection">
+        <div className="container">
+          <ProjectImage02 images={projectImage02} />
+        </div>
+      </section>
+      <section className="">
+        <div className="container">
+          <Content source={project02} />
+        </div>
+      </section>
+    </div>
+
+{/* PROJECTS BUTTON */}
+    <div className='projectContainer'>
+      <section className="buttonSection">
+        <div className="container Center">
+          <a href="/projects" className="Button">See all projects</a>
+        </div>
+      </section>
+    </div>
+
+{/* EVENTS HEADER */}
+<section className="noLineSection">
+      <div className="container">
+        <h1>
+          Current events
+        </h1>
+      </div>
+    </section>
+
+{/* EVENTS BUTTON */}
+<div className='projectContainer'>
+      <section className="buttonSection">
+        <div className="container Center">
+          <a href="/events" className="Button">See all events</a>
+        </div>
+      </section>
+    </div>
+
   </main>
 )
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => (
-  <Layout meta={page.frontmatter.meta || false}>
+  <Layout 
+    meta={page.frontmatter.meta || false}
+  >
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
@@ -40,11 +128,15 @@ export const pageQuery = graphql`
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...ProjectImage01
+      ...ProjectImage02
       html
       frontmatter {
         title
         subtitle
         featuredImage
+        project01
+        project02
       }
     }
   }

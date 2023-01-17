@@ -33,13 +33,14 @@ html {
   background: var(--lightGrey);
 }
 
+/* NOTE: Changed font-size from 1.6em to 2em */
 body {
   font-family: var(--font-system);
   min-height: 100%;
   position: relative;
   background: white;
   color: var(--secondary);
-  font-size: 1.6em;
+  font-size: 2em;
   font-weight: 400;
   letter-spacing: 0.01em;
   line-height: 1.6;
@@ -150,12 +151,12 @@ blockquote {
   }
 }
 
-/* Layout */
+/* STYLING FOR SECTION */
 
 .section {
   width: 100%;
-  padding: 5rem 0;
-  border-bottom: 1px solid #f1f1f1;
+  padding: 4rem 0 4rem 0;
+  border-bottom: 1px solid #d8d8d8;
 }
 .section:last-child {
   border: 0;
@@ -170,18 +171,89 @@ blockquote {
   padding: 0;
 }
 
-@media (max-width: 600px) {
-  .section {
-    width: 100%;
-    padding: 5rem 0;
-  }
-  .section.thick {
-    padding: 7rem 0;
-  }
-  .section.thin {
-    padding: 1.5rem 0;
-  }
+/* STYLING FOR TOPSECTION */
+
+.topSection {
+  width: 100%;
+  padding: 3rem 0 3rem 0;
+  border-bottom: 1px solid #d8d8d8;
 }
+.topSection:last-child {
+  border: 0;
+}
+.topSection.thick {
+  padding: 10rem 0;
+}
+.topSection.thin {
+  padding: 3.5rem 0;
+}
+.topSection.noPadding {
+  padding: 0;
+}
+
+/* STYLING FOR NOLINESECTION */
+
+.noLineSection {
+  width: 100%;
+  padding: 3rem 0 1.5rem 0;
+}
+.noLineSection:last-child {
+  border: 0;
+}
+.noLineSection.thick {
+  padding: 10rem 0;
+}
+.noLineSection.thin {
+  padding: 3.5rem 0;
+}
+.noLineSection.noPadding {
+  padding: 0;
+}
+
+/* STYLING FOR PROJECTTEXTSECTION */
+
+.projectTextSection {
+  width: 100%;
+  padding: 3rem 0 1.5rem 0;
+}
+.projectTextSection:last-child {
+  border: 0;
+}
+.projectTextSection.thick {
+  padding: 10rem 0;
+}
+.projectTextSection.thin {
+  padding: 3.5rem 0;
+}
+.projectTextSection.noPadding {
+  padding: 0;
+}
+
+/* STYLING FOR IMAGESECTION */
+
+.imageSection {
+  width: 40%;
+  padding: 1.5rem 0 1.5rem 0;
+}
+
+/* STYLING FOR BUTTONSECTION */
+
+.buttonSection {
+  width: 100%;
+  padding: 4rem 0 4rem 0;
+  border-bottom: 1px solid #d8d8d8;
+}
+.section.thick {
+  padding: 10rem 0;
+}
+.section.thin {
+  padding: 3.5rem 0;
+}
+.section.noPadding {
+  padding: 0;
+}
+
+/* STYLING FOR CONTAINER AND PROJECTCONTAINER */
 
 .container {
   max-width: 1111px;
@@ -195,19 +267,84 @@ blockquote {
   max-width: 555px;
 }
 
+.projectContainer {
+  display: flex;
+  max-width: 1111px;
+  width: 90%;
+  margin: 0 auto;
+}
+.projectContainer.skinny {
+  max-width: 888px;
+}
+.projectContainer.skinnier {
+  max-width: 555px;
+}
+.projectContainer:last-child {
+  padding: 3rem 0;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 600px) {
+  .section {
+    width: 100%;
+    padding: 3rem 0;
+  }
+  .section.thick {
+    padding: 7rem 0;
+  }
+  .section.thin {
+    padding: 1.5rem 0;
+  }
+  .noLineSection {
+    width: 100%;
+    padding: 3rem 0;
+  }
+  .noLineSection.thick {
+    padding: 7rem 0;
+  }
+  .noLineSection.thin {
+    padding: 1.5rem 0;
+  }
+  .topSection {
+    width: 100%;
+    padding: 3rem 0;
+  }
+  .topSection.thick {
+    padding: 7rem 0;
+  }
+  .topSection.thin {
+    padding: 1.5rem 0;
+  }
+  .imageSection {
+    width: 100%;
+    padding: 3rem 0;
+  }
+  .container {
+    display: block!important;
+  }
+  .projectContainer {
+    display: block!important;
+  }
+}
+
 /* Buttons */
 
 .Button {
   background: var(--primary);
+  border: none;
   color: white;
-  text-transform: uppercase;
+  padding: 1.25rem 3rem;
+  text-align: center;
   text-decoration: none;
+  text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.05em;
   font-size: 1.4rem;
   display: inline-block;
-  padding: 1.25rem 3rem;
-  border: none;
   transition: all 0.2s ease;
   cursor: pointer;
   border-radius: var(--borderRadius);
@@ -232,3 +369,9 @@ blockquote {
   align-items: center;
   justify-content: center;
 }
+
+.Center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 

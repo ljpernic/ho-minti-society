@@ -9,8 +9,12 @@
 
 .Nav--Container {
   display: flex;
-  align-items: center;
-  height: 6rem;
+/* NOTE: REMOVING THIS MADE THE LOGO APPEAR CORRECTLY */ 
+  /* align-items: center; */
+/* NOTE: CHANGED HEIGHT FROM 6rem TO 10rem */
+  height: 10rem;
+/* NOTE: THIS MOVES THE LINKS TO THE RIGHT */
+  justify-content: space-between;
 }
 
 .Nav--Links {

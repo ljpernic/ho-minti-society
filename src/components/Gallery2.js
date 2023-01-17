@@ -10,9 +10,9 @@ import './Gallery.css'
 import 'react-photoswipe/lib/photoswipe.css'
 
 export const query = graphql`
-  fragment Gallery on MarkdownRemark {
+  fragment Gallery2 on MarkdownRemark {
     frontmatter {
-      gallery {
+      gallery2 {
         alt
         image
         title
@@ -21,7 +21,7 @@ export const query = graphql`
   }
 `
 
-export default class Gallery extends Component {
+export default class Gallery2 extends Component {
   state = {
     loaded: false,
     isOpen: false,
@@ -120,6 +120,6 @@ export default class Gallery extends Component {
   }
 }
 
-Gallery.propTypes = {
+Gallery2.propTypes = {
   images: PropTypes.array.isRequired
 }

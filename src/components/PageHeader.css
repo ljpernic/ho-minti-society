@@ -19,9 +19,10 @@
   margin-bottom: 0;
 }
 
+/* NOTE: Changed font-size from 1.8 em to 2em */
 .PageHeader--Subtitle {
   font-weight: 400;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 .PageHeader .container {
