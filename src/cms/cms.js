@@ -8,7 +8,9 @@ import { ContactPageTemplate } from '../templates/ContactPage'
 import { DefaultPageTemplate } from '../templates/DefaultPage'
 import { EventsIndexTemplate } from '../templates/EventsIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
-import uploadcare from 'netlify-cms-media-library-uploadcare'
+import uploadcare from 'netlify-cms-media-library-uploadcare';
+
+CMS.registerMediaLibrary(uploadcare);
 
 const config = {
   media_library: {

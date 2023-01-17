@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: Ho Minti Society
+title: Ho Minti Society | Events
 featuredImage: https://ucarecdn.com/1ec6b681-6385-46d7-9c02-d694fcdb7ae1/
 subtitle: " A community organization | Choctaw-Apache Tribe of Ebarb"
 project01: >-

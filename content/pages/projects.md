@@ -1,7 +1,7 @@
 ---
 template: ProjectsPage
 slug: projects
-title: Projects
+title: Ho Minti Society | Projects
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
 subtitle: This is the projects page subtitle.
 project01: >-
