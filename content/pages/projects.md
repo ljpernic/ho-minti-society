@@ -2,14 +2,14 @@
 template: ProjectsPage
 slug: projects
 title: Ho Minti Society | Projects
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/6243ef25-38e9-4185-bc4c-8c2e23f9d404/
 subtitle: This is the projects page subtitle.
 project01: >-
   ## Traditional Indigenous arts
 
   We pride ourselves on keeping the ancient practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to create beadwork and stitchwork, make moccasins, and weave pine needle baskets. Traditionally... 
-  
-  
+
+
   Check out [our events page](/events) for upcoming meetings!
 project02: >-
   ## Scholarships
@@ -32,13 +32,8 @@ project04: >-
 
 
   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
-project05: >-
-  Past projects/activities that we can still highlight... Bream fishing... Probably other things...
-projectVideoExample: >-
-  ## You can use videos, images and text.
-
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+project05: Past projects/activities that we can still highlight... Bream
+  fishing... Probably other things...
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Also background videos, with poster image & title overlay.
@@ -78,8 +73,14 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: The Ho Minti Society's ongoing projects in support of the Choctaw-Apache Tribe of Ebarb 
+  description: The Ho Minti Society's ongoing projects in support of the
+    Choctaw-Apache Tribe of Ebarb
   title: Ho Minti Society
+projectVideoExample: >-
+  ## You can use videos, images and text.
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 # This is a list of ongoing projects we do
