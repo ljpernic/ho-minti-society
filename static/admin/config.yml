@@ -33,6 +33,7 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: 'contact' }
           - { label: Title, name: title, widget: string }
+          - { label: Subtitle, name: subtitle, widget: markdown }
           - {
               label: Featured Image,
               name: featuredImage,
@@ -40,7 +41,6 @@ collections: # A list of collections the CMS should be able to edit
               options:
                 { media_library: { config: { imageShrink: 2600x2600 } } },
             }
-          - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
           - { label: Address, name: address, widget: text }
           - { label: Phone, name: phone, widget: string }
@@ -109,8 +109,8 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: 'events' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Featured Image, name: featuredImage, widget: image }
           - label: 'Meta'
             required: false
             name: 'meta'
@@ -148,12 +148,11 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: 'projects' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Project 1, name: project01, widget: markdown }
           - { label: Project 2, name: project02, widget: markdown }
           - { label: Project 3, name: project03, widget: markdown }
-          - { label: Project 4, name: project04, widget: markdown }
           - { label: Project 5, name: project05, widget: markdown }
           - { label: Body, name: body, widget: markdown }
           - { name: video, label: video, widget: file }
@@ -237,8 +236,8 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: 'about' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Body, name: body, widget: markdown }
           - label: 'Gallery'
             name: 'gallery'
@@ -284,11 +283,11 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown, required: false }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Body, name: body, widget: markdown }
           - { label: Project 1, name: project01, widget: markdown }
           - { label: Project 2, name: project02, widget: markdown }     
-          - { label: Body, name: body, widget: markdown }
           - label: 'Accordion'
             name: 'accordion'
             widget: 'list'

@@ -39,7 +39,7 @@ export class Navigation extends Component {
   }
   render() {
     const { active } = this.state,
-      { subNav } = this.props,
+//      { subNav } = this.props,
       NavLink = ({ to, className, children, ...props }) => (
         <Link
           to={to}
@@ -115,6 +115,7 @@ export class Navigation extends Component {
 {/* NOTE: Adding things here puts links onto the nav bar  */}
             {/* <NavLink to="/default/">Default</NavLink> */}
             <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/join/">Join</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"

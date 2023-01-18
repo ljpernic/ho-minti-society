@@ -22,7 +22,6 @@ export const ProjectsPageTemplate = ({
   project01,
   project02,
   project03,
-  project04,
   project05,
   projectImage01,
   projectImage02,
@@ -101,21 +100,7 @@ export const ProjectsPageTemplate = ({
       </section>
     </div>
 
-{/* PROJECT FOUR */}
-    <div className='projectContainer'>
-      <section className="imageSection">
-        <div className="container">
-          <ProjectImage04 images={projectImage04} />
-        </div>
-      </section>
-      <section className="">
-        <div className="container">
-          <Content source={project04} />
-        </div>
-      </section>
-    </div>
-
-{/* TOP SECTION */}
+{/* PAST PROJECTS SECTION */}
     <section className="noLineSection">
       <div className="container">
         <h1>
@@ -199,7 +184,6 @@ export const pageQuery = graphql`
         project01
         project02
         project03
-        project04
         project05
       }
     }

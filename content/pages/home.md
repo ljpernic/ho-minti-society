@@ -37,7 +37,3 @@ meta:
 *Ho Minti* is a Choctaw phrase meaning *y'all come*. As a non-profit community organization, The Ho Minti Societys calls for a coming back together and returning to traditional American Indian ways of knowing and doing. The name also suggests a kind of in-gathering and renewal that we believe is necessary for our nation and culture to survive and prosper.
 
 The purpose of the Ho Minti Society is to promote cultural awareness, service, community organizing, and education in ways that respect traditional knowledge and the breadth of our history and heritage. We organize regular activities for members and the community at large.
-
-Scholarships, specific projects, etc.
-
-...beading and pine needle basketry classes, a bream tournament for children, a workshops on making moccasins and gourds and participated in a number of area events.The organization and our activities are open to both Native and non-Native supporters.
