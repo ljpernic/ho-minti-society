@@ -2,14 +2,14 @@
 template: HomePage
 slug: ""
 title: Ho Minti Society
-featuredImage: https://ucarecdn.com/1ec6b681-6385-46d7-9c02-d694fcdb7ae1/
+featuredImage: https://ucarecdn.com/2cfd522c-dd71-44e5-8db8-351a36507282/
 subtitle: " A community organization | Choctaw-Apache Tribe of Ebarb"
 project01: >-
   ## Traditional Indigenous arts
 
   We pride ourselves on keeping the ancient practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to practice beading, stitchwork, and pine needle basketry. Traditionally... 
-  
-  
+
+
   Check out [our events page](/events) for upcoming meetings!
 project02: >-
   ## Scholarships
@@ -20,11 +20,11 @@ project02: >-
   If you meet whatever the criteria are for applying to these scholarships, please see [our scholarship page](/scholarships) for more details.
 projectImage01:
   - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
+    image: https://ucarecdn.com/eb388691-cbc6-43c5-8e2a-aed6e02d2726/
     title: Yellow Rope
 projectImage02:
   - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
+    image: https://ucarecdn.com/f16a88f4-8b9a-41b3-8f6c-94eac1a8f0b9/
     title: A bunch of umbrellas
 meta:
   description: Ho Minti Society is a community organization supporting the
