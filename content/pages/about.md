@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 title: Ho Minti Society | About
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/0739d86b-9033-4558-b881-836152ae22a0/
 subtitle: This is the projects page subtitle.
 gallery:
   - alt: yellow rope image
@@ -15,7 +15,7 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: About the Ho Minti Society. 
+  description: About the Ho Minti Society.
   title: Ho Minti Society
 ---
 
