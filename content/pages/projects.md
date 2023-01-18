@@ -2,7 +2,7 @@
 template: ProjectsPage
 slug: projects
 title: Ho Minti Society | Projects
-featuredImage: https://ucarecdn.com/6243ef25-38e9-4185-bc4c-8c2e23f9d404/
+featuredImage: https://ucarecdn.com/26053b17-5ff1-41ab-8ac0-6f2214c4fcfd/
 subtitle: This is the projects page subtitle.
 project01: >-
   ## Traditional Indigenous arts
