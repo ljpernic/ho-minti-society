@@ -4,6 +4,7 @@ import './cms-utils'
 
 import { HomePageTemplate } from '../templates/HomePage'
 import { ProjectsPageTemplate } from '../templates/ProjectsPage'
+import { AboutPageTemplate } from '../templates/AboutPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
 import { DefaultPageTemplate } from '../templates/DefaultPage'
 import { EventsIndexTemplate } from '../templates/EventsIndex'
@@ -14,15 +15,13 @@ CMS.registerMediaLibrary(uploadcare);
 
 const config = {
   media_library: {
-      name: 'uploadcare',
-      config: {
+    name: 'uploadcare',  
+    config: {
           publicKey: '1a455b51466494f0965e'
       }
   },
 }
 CMS.init({ config })
-
-CMS.registerMediaLibrary(uploadcare)
 
 if (
   window.location.hostname === 'localhost' &&
@@ -40,6 +39,9 @@ CMS.registerPreviewTemplate('home-page', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('projects-page', ({ entry }) => (
   <ProjectsPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('about-page', ({ entry }) => (
+  <AboutPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <ContactPageTemplate {...entry.toJS().data} />

@@ -5,35 +5,35 @@ title: Ho Minti Society | Projects
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
 subtitle: This is the projects page subtitle.
 project01: >-
-  ## Project 1
+  ## Traditional Indigenous arts
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
+  We pride ourselves on keeping the ancient practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to create beadwork and stitchwork, make moccasins, and weave pine needle baskets. Traditionally... 
+  
+  
+  Check out [our events page](/events) for upcoming meetings!
 project02: >-
-  ## Project 2
+  ## Scholarships
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. The Ho Minti Society...
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
+  If you meet whatever the criteria are for applying to these scholarships, please see [our scholarship page](/scholarships) for more details.
 project03: >-
-  ## Project 3
+  ## Gourd dancing
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
 
   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
 project04: >-
-  ## Project 4
+  ## Self-defence
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  Indigenous women and girls face a staggering onslaught of personal violence... A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
 
   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
 project05: >-
-  Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery. Highlighting some of the bigger projects that we are doing, together with the gallery.
+  Past projects/activities that we can still highlight... Bream fishing... Probably other things...
 projectVideoExample: >-
   ## You can use videos, images and text.
 

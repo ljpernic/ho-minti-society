@@ -72,8 +72,9 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/projects/">Projects</NavLink>
-            <NavLink to="/events/">Events</NavLink>
+            <NavLink to="/projects">Projects</NavLink>
+            <NavLink to="/events">Events</NavLink>
+            <NavLink to="/about">About</NavLink>
       {/* NOTE: The old functionality of a drop down menu on the nav bar is below. */}
             {/* <div
               className={`Nav--Group ${
