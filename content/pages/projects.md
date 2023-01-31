@@ -1,9 +1,9 @@
 ---
 template: ProjectsPage
 slug: projects
-title: Ho Minti Society | Projects
-featuredImage: https://ucarecdn.com/26053b17-5ff1-41ab-8ac0-6f2214c4fcfd/
+title: Ho Minti Society
 subtitle: This is the projects page subtitle.
+featuredImage: https://ucarecdn.com/ab3ff31b-b5f1-4177-8f9d-851fc62857d8/
 project01: >-
   ## Traditional Indigenous arts
 
@@ -40,31 +40,31 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 projectImage01:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
+  - alt: Basket weaving
+    image: https://ucarecdn.com/b712204a-fc1f-405c-a65e-0554277f3417/
+    title: ""
 projectImage02:
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: A bunch of umbrellas
+  - alt: Stickball
+    image: https://ucarecdn.com/2ee4ec3e-3c25-41b2-9fe5-1ad3b8185cb0/
+    title: ""
 projectImage03:
-  - alt: Third image
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: Third project image
+  - alt: Basket
+    image: https://ucarecdn.com/9f364b1f-f8fb-406a-91d3-cc9df29acbc0/
+    title: ""
 projectImage04:
-  - alt: Fourth image
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
+  - alt: Drum
+    image: https://ucarecdn.com/c2e4e169-85de-4d2f-812d-a9ecf1f1cdb2/
     title: Fourth project image
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: Pier
+    image: https://ucarecdn.com/5555c126-4590-444f-b285-9e7956edda2e/
+    title: ""
+  - alt: Flag
+    image: https://ucarecdn.com/d8e93687-4c54-45e1-9b3f-bc8ca755d544/
+    title: ""
+  - alt: Fishing by the pier
+    image: https://ucarecdn.com/e742b4e3-d733-434a-881b-ea498631b693/
+    title: ""
 meta:
   description: The Ho Minti Society's ongoing projects in support of the
     Choctaw-Apache Tribe of Ebarb
