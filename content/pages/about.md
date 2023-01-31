@@ -2,8 +2,8 @@
 template: AboutPage
 slug: about
 title: Ho Minti Society | About
-featuredImage: https://ucarecdn.com/0739d86b-9033-4558-b881-836152ae22a0/
 subtitle: This is the projects page subtitle.
+featuredImage: https://ucarecdn.com/0f0b870f-2eb7-4c0d-800b-1ead18c621b5/
 gallery:
   - alt: yellow rope image
     image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
