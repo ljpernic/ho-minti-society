@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Ho Minti Society | Contact
 subtitle: This is the contact page subtitle.
-featuredImage: https://ucarecdn.com/c0fbdca6-f515-4b2b-b230-1eed0adf3ff6/
+featuredImage: https://ucarecdn.com/627bf8f1-95a7-407e-93d6-bd62f7a3fa71/
 address: 123 Fake St, Fake City, Louisiana, 00000
 phone: 555-555-5555
 email: example@example.com
