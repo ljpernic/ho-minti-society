@@ -16,6 +16,8 @@ meta:
   title: test meta title
 ---
 
+Rhonda Gauthier, president of Ho Minti Society, will be hosting a workshop to teach tribal youth the art of both making and wearing traditional regalia!
+
 ### Where
 Los Adaes State Historical Site
 6354 LA-485

@@ -4,7 +4,7 @@ slug: join
 title: Ho Minti Society
 subtitle: Join us
 featuredImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
-joinBottomText: Join content... Bream fishing... Probably other things...
+joinBottomText: Don't forget to follow the Paypal link below in order to pay your dues and complete your membership! 
 # video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 # videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 # videoTitle: Also background videos, with poster image & title overlay.
@@ -48,7 +48,14 @@ pay annual dues of $25 per individual.
 
 Once you fill out the form...
 
-MAKE THIS COME AFTER THE FORM. 
+# How to join
+Joining is easy! Just submit the form below and then pay your dues through Paypal (at the link below) or by check or money 
+order payable to: 
 
-Please send this form with check or money order payable to
-HO MINTI SOCIETY 886 Garcie Road Zwolle, LA 71486...
+HO MINTI SOCIETY 
+886 Garcie Road 
+Zwolle, LA 71486
+
+# Already a member?
+If you're already a member and just have to pay your dues for the new year, you can skip right down to the paypal page below. 
+Just be sure to include your name in the "Special instructions" box so that we know who you are!

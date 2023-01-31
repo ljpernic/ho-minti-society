@@ -37,28 +37,26 @@ export const JoinPageTemplate = ({
     </section>
 
 {/* FORM SECTION */}
-    <section className="section">
+    <section className="noLineSection">
       <div className="container">
         <Content source={formSection} />
       </div>
     </section>
 
-
-{/* OTHER JOIN SECTION */}
-    <section className="noLineSection">
-      <div className="container">
-        <h1>
-          Other join section
-        </h1>
+    {/* BOTTOM REMINDER TEXT */}
+    <section className="section">
+      <div className='container'>
+        <div className="Content">
+            <Content source={joinBottomText} />
+        </div>
+        <div className="container Center">
+          <a href="/projects" className="Button">Pay Dues</a>
+        </div>
       </div>
     </section>
 
-    {/* JOIN FIVE */}
-    <div className='container'>
-      <div className="Content">
-          <Content source={joinBottomText} />
-      </div>
-    </div>
+
+
     <section className="section">
       <div className="container">
         <Gallery images={gallery} />
