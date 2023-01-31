@@ -2,26 +2,25 @@
 template: SinglePost
 title: Second event
 status: Featured / Published
-date: '2023-01-02'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
+date: 2023-01-02
+featuredImage: https://ucarecdn.com/e8b853dd-0c86-4cdf-8609-e46daddff93b/
+excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
+  Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
+  lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: test meta description
   noindex: false
   title: test meta title
 ---
 Paragraphs are separated by a blank line.
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+![processing a thing](https://ucarecdn.com/835f896e-f258-443d-838f-615924e226c4/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. *Italic*, **bold**, and `monospace`.
 
 ### Unordered lists:
 
