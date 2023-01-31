@@ -228,10 +228,8 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Featured Images, name: featuredImage, widget: image }
-          - { label: Join 1, name: join01, widget: markdown }
-          - { label: Join 2, name: join02, widget: markdown }
-          - { label: Join 3, name: join03, widget: markdown }
-          - { label: Join 5, name: join05, widget: markdown }
+          - { label: Join Bottom Text, name: joinBottomText, widget: markdown }
+          - { label: Form Section, name: formSection, widget: markdown }          
           - { label: Body, name: body, widget: markdown }
           - { name: video, label: video, widget: file }
           - { name: videoPoster, label: videoPoster, widget: image }
@@ -242,34 +240,6 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { name: title, label: title, widget: string, default: '' }
               - { name: description, label: description, widget: string }
-          - label: 'JoinImage01'
-            name: 'joinImage01'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
-          - label: 'JoinImage02'
-            name: 'joinImage02'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
-          - label: 'JoinImage03'
-            name: 'joinImage03'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
-          - label: 'JoinImage04'
-            name: 'joinImage04'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'

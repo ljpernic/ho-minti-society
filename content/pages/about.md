@@ -1,8 +1,8 @@
 ---
 template: AboutPage
 slug: about
-title: Ho Minti Society | About
-subtitle: This is the projects page subtitle.
+title: Ho Minti Society
+subtitle: Who we are and what we do
 featuredImage: https://ucarecdn.com/0f0b870f-2eb7-4c0d-800b-1ead18c621b5/
 gallery:
   - alt: yellow rope image
@@ -15,7 +15,7 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: About the Ho Minti Society.
+  description: About Ho Minti Society.
   title: Ho Minti Society
 ---
 
@@ -31,11 +31,11 @@ The purpose of the group is to promote CULTURAL AWARENESS, SERVICE, COMMUNITY OR
 
 ### Where do we fit in?
 
-We acknowledge the Choctaw-Apache tribal council as the governmental entity for the tribal nation to which most of us belong. However, the Ho Minti Society is a Louisiana non-profit organization that operates completely independently from the tribal government. Full membership is open to those eligible for enrollment in the tribe. We also encourage all American Indians and other supporters living in the region to become associate members.
+We acknowledge the Choctaw-Apache tribal council as the governmental entity for the tribal nation to which most of us belong. However, Ho Minti Society is a Louisiana non-profit organization that operates completely independently from the tribal government. Full membership is open to those eligible for enrollment in the tribe. We also encourage all American Indians and other supporters living in the region to become associate members.
 
 ### What do we believe?
 
-The HO MINTI SOCIETY is committed to the following four pillars:
+HO MINTI SOCIETY is committed to the following four pillars:
 
 1. Respect for traditional knowledge and cultural vitalization.
 2. Reinvigorating cultural knowledge in everyday life through monthly cultural teachings and sharing of cultural knowledge as well as annual meetings.

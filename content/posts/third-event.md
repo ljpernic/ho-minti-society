@@ -1,56 +1,32 @@
 ---
 template: SinglePost
-title: Third event
+title: Free Regalia Workshop
 status: Featured / Published
-date: 2023-01-03
+date: 2022-09-22
 featuredImage: https://ucarecdn.com/eccca0e4-2d3d-4ccd-8f64-d45c9ffa7264/
-excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
-  Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
-  lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+excerpt: Rhonda Gauthier, president of Ho Minti Society, will be hosting a 
+  workshop to teach tribal youth the art of both making and wearing traditional 
+  regalia!
 categories:
-  - category: Updates
+  - category: Workshops
 meta:
   canonicalLink: ""
   description: test meta description
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
 
-![Ho minti drum](https://ucarecdn.com/53eabd92-8d6f-4df1-bf8a-5996554b0f46/)
+### Where
+Los Adaes State Historical Site
+6354 LA-485
+Robeline, LA 71469
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### When
+September 3rd, 2022
+Starting at 10 AM
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. *Italic*, **bold**, and `monospace`.
+Bring a sack lunch!
 
-### Unordered lists:
+For more information, call 318-609-2317.
 
-* this one
-* that one
-* the other one
-
-### Ordered lists:
-
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+All intertribal youth are welcome!

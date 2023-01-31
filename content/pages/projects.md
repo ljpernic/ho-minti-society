@@ -2,7 +2,7 @@
 template: ProjectsPage
 slug: projects
 title: Ho Minti Society
-subtitle: This is the projects page subtitle.
+subtitle: Our ongoing projects
 featuredImage: https://ucarecdn.com/ab3ff31b-b5f1-4177-8f9d-851fc62857d8/
 project01: >-
   ## Traditional Indigenous arts
@@ -14,7 +14,7 @@ project01: >-
 project02: >-
   ## Scholarships
 
-  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. The Ho Minti Society...
+  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. Ho Minti Society...
 
 
   If you meet whatever the criteria are for applying to these scholarships, please see [our scholarship page](/scholarships) for more details.
@@ -59,8 +59,7 @@ gallery:
     image: https://ucarecdn.com/e742b4e3-d733-434a-881b-ea498631b693/
     title: ""
 meta:
-  description: The Ho Minti Society's ongoing projects in support of the
-    Choctaw-Apache Tribe of Ebarb
+  description: Ho Minti Society's ongoing projects
   title: Ho Minti Society
 projectVideoExample: >-
   ## You can use videos, images and text.
