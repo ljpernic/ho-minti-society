@@ -283,6 +283,22 @@ blockquote {
   padding: 3rem 0;
 }
 
+.joinContainer {
+  display: flex;
+  max-width: 1111px;
+  width: 90%;
+  margin: 0 auto;
+}
+.joinContainer.skinny {
+  max-width: 888px;
+}
+.joinContainer.skinnier {
+  max-width: 555px;
+}
+.joinContainer:last-child {
+  padding: 3rem 0;
+}
+
 .center {
   justify-content: center;
   align-items: center;
@@ -327,6 +343,9 @@ blockquote {
     display: block!important;
   }
   .projectContainer {
+    display: block!important;
+  }
+  .joinContainer {
     display: block!important;
   }
 }

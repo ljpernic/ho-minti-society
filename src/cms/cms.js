@@ -4,6 +4,7 @@ import './cms-utils'
 
 import { HomePageTemplate } from '../templates/HomePage'
 import { ProjectsPageTemplate } from '../templates/ProjectsPage'
+import { JoinPageTemplate } from '../templates/JoinPage'
 import { AboutPageTemplate } from '../templates/AboutPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
 import { DefaultPageTemplate } from '../templates/DefaultPage'
@@ -39,6 +40,9 @@ CMS.registerPreviewTemplate('home-page', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('projects-page', ({ entry }) => (
   <ProjectsPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('join-page', ({ entry }) => (
+  <JoinPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('about-page', ({ entry }) => (
   <AboutPageTemplate {...entry.toJS().data} />
