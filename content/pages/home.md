@@ -2,8 +2,8 @@
 template: HomePage
 slug: ""
 title: Ho Minti Society
-featuredImage: https://ucarecdn.com/2cfd522c-dd71-44e5-8db8-351a36507282/
-subtitle: " A community organization | Choctaw-Apache Tribe of Ebarb"
+subtitle: A community organization
+featuredImage: https://ucarecdn.com/4b08fc3d-d18c-49ff-bff4-a98fb138fb16/
 project01: >-
   ## Traditional Indigenous arts
 
@@ -27,8 +27,7 @@ projectImage02:
     image: https://ucarecdn.com/f16a88f4-8b9a-41b3-8f6c-94eac1a8f0b9/
     title: A bunch of umbrellas
 meta:
-  description: Ho Minti Society is a community organization supporting the
-    Choctaw-Apache Tribe of Ebarb.
+  description: ""
   title: Ho Minti Society
 ---
 
