@@ -26,9 +26,9 @@ join03: >-
 
   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
 join05: Join content... Bream fishing... Probably other things...
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
+# video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
+# videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+# videoTitle: Also background videos, with poster image & title overlay.
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -57,11 +57,11 @@ joinImage04:
 meta:
   description: The Ho Minti Society's join page.
   title: Ho Minti Society
-projectVideoExample: >-
-  ## You can use videos, images and text.
+# projectVideoExample: >-
+#   ## You can use videos, images and text.
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 gallery:
   - alt: Tree
     image: https://ucarecdn.com/a5345202-bedf-4c44-a634-00d273558035/

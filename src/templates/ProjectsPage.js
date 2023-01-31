@@ -6,7 +6,6 @@ import Content from '../components/Content.js'
 import ProjectImage01 from '../components/ProjectImage01'
 import ProjectImage02 from '../components/ProjectImage02'
 import ProjectImage03 from '../components/ProjectImage03'
-import ProjectImage04 from '../components/ProjectImage04'
 import Gallery from '../components/Gallery'
 import Layout from '../components/Layout.js'
 
@@ -26,13 +25,8 @@ export const ProjectsPageTemplate = ({
   projectImage01,
   projectImage02,
   projectImage03,
-  projectImage04,
   body,
   gallery,
-  //  video,
-//  videoPoster,
-//  videoTitle,
-//  accordion,
 }) => (
   <main>
     <PageHeader
@@ -120,38 +114,6 @@ export const ProjectsPageTemplate = ({
         <Gallery images={gallery} />
       </div>
     </section>
-
-{/* VIDEO, ACCORDION, AND POPUP SECTIONS HIDDEN */}
-    {/* <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
-      </BackgroundVideo>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Popup>
-          <Content source={project01} />
-        </Popup>
-      </div>
-    </section> */}
-
-    {/* NOTE ABOUT FRAGMENTS: */}
-    {/* If the things are added back in, the following fragments also have to be added:
-    video
-        videoPoster
-        videoTitle
-        accordion {
-          title
-          description
-        } */}
-
   </main>
 )
 
@@ -173,7 +135,6 @@ export const pageQuery = graphql`
       ...ProjectImage01
       ...ProjectImage02
       ...ProjectImage03
-      ...ProjectImage04
       ...Gallery
       html
       frontmatter {

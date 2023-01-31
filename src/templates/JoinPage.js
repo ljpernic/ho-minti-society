@@ -6,7 +6,6 @@ import Content from '../components/Content.js'
 import JoinImage01 from '../components/JoinImage01'
 import JoinImage02 from '../components/JoinImage02'
 import JoinImage03 from '../components/JoinImage03'
-import JoinImage04 from '../components/JoinImage04'
 import Gallery from '../components/Gallery'
 import Layout from '../components/Layout.js'
 
@@ -26,12 +25,11 @@ export const JoinPageTemplate = ({
   joinImage01,
   joinImage02,
   joinImage03,
-  joinImage04,
+  video,
+  videoPoster,
+  videoTitle,
   body,
   gallery,
-  //  video,
-//  videoPoster,
-//  videoTitle,
 //  accordion,
 }) => (
   <main>
@@ -122,13 +120,13 @@ export const JoinPageTemplate = ({
     </section>
 
 {/* VIDEO, ACCORDION, AND POPUP SECTIONS HIDDEN */}
-    {/* <section className="BackgroundVideo-section section">
+    {/*<section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo>
     </section>
 
-    <section className="section">
+     <section className="section">
       <div className="container">
         <Accordion items={accordion} />
       </div>
@@ -144,7 +142,7 @@ export const JoinPageTemplate = ({
 
     {/* NOTE ABOUT FRAGMENTS: */}
     {/* If the things are added back in, the following fragments also have to be added:
-    video
+        video
         videoPoster
         videoTitle
         accordion {

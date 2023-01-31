@@ -26,6 +26,14 @@ projectImage02:
   - alt: umbrellas
     image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
     title: A bunch of umbrellas
+video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
+videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+videoTitle: Click here to see all of our upcoming events!
+projectVideoExample: >-
+  ## You can use videos, images and text.
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 meta:
   description: ""
   title: Ho Minti Society

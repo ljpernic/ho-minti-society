@@ -21,10 +21,6 @@ ProjectImage03:
   - alt: ''
     image: ''
     title: ''
-ProjectImage04:
-  - alt: ''
-    image: ''
-    title: ''
 ---
 
 <!-- Use this to force Gatsby to correctly determine optional images/file schema -->

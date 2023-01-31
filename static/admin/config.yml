@@ -155,9 +155,6 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Project 3, name: project03, widget: markdown }
           - { label: Project 5, name: project05, widget: markdown }
           - { label: Body, name: body, widget: markdown }
-          - { name: video, label: video, widget: file }
-          - { name: videoPoster, label: videoPoster, widget: image }
-          - { label: videoTitle, name: videoTitle, widget: string }
           - label: 'accordion'
             name: 'accordion'
             widget: 'list'
@@ -180,13 +177,6 @@ collections: # A list of collections the CMS should be able to edit
               - { name: title, label: Title, widget: string, required: false }
           - label: 'ProjectImage03'
             name: 'projectImage03'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
-          - label: 'ProjectImage04'
-            name: 'projectImage04'
             widget: 'list'
             fields:
               - { name: image, label: Image, widget: image }

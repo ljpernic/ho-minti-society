@@ -27,9 +27,6 @@ project03: >-
   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
 project05: Past projects/activities that we can still highlight... Bream
   fishing... Probably other things...
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -51,10 +48,6 @@ projectImage03:
   - alt: Basket
     image: https://ucarecdn.com/9f364b1f-f8fb-406a-91d3-cc9df29acbc0/
     title: ""
-projectImage04:
-  - alt: Drum
-    image: https://ucarecdn.com/c2e4e169-85de-4d2f-812d-a9ecf1f1cdb2/
-    title: Fourth project image
 gallery:
   - alt: Pier
     image: https://ucarecdn.com/5555c126-4590-444f-b285-9e7956edda2e/
