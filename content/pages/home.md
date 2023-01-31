@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Ho Minti Society
 subtitle: A community organization
-featuredImage: https://ucarecdn.com/4b08fc3d-d18c-49ff-bff4-a98fb138fb16/
+featuredImage: https://ucarecdn.com/91bb9446-12c4-499c-b75e-d9b1456e0ceb/
 project01: >-
   ## Traditional Indigenous arts
 
@@ -19,12 +19,12 @@ project02: >-
 
   If you meet whatever the criteria are for applying to these scholarships, please see [our scholarship page](/scholarships) for more details.
 projectImage01:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/eb388691-cbc6-43c5-8e2a-aed6e02d2726/
-    title: Yellow Rope
+  - alt: Basket weaving
+    image: https://ucarecdn.com/ce923734-c0b4-4cdf-b0fb-ad893636f4e9/
+    title: Basket weaving
 projectImage02:
   - alt: umbrellas
-    image: https://ucarecdn.com/f16a88f4-8b9a-41b3-8f6c-94eac1a8f0b9/
+    image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
     title: A bunch of umbrellas
 meta:
   description: ""
