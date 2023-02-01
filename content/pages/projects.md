@@ -53,7 +53,7 @@ gallery:
     image: https://ucarecdn.com/5555c126-4590-444f-b285-9e7956edda2e/
     title: ""
   - alt: Flag
-    image: https://ucarecdn.com/d8e93687-4c54-45e1-9b3f-bc8ca755d544/
+    image: https://ucarecdn.com/a2bb02e7-2528-4c65-bf42-ad94f2377f22/
     title: ""
   - alt: Fishing by the pier
     image: https://ucarecdn.com/e742b4e3-d733-434a-881b-ea498631b693/
