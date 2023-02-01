@@ -11,13 +11,10 @@ import Layout from '../components/Layout.js'
 //import Popup from '../components/Popup'
 
 // Export Template for use in CMS preview
-export const JoinPageTemplate = ({
+export const ScholarshipsPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  joinBottomText,
-  formSection,
-  paypalLink,
   body,
   gallery,
 //  accordion,
@@ -37,26 +34,6 @@ export const JoinPageTemplate = ({
       </div>
     </section>
 
-{/* FORM SECTION */}
-    <section className="noLineSection">
-      <div className="container">
-        <Content source={formSection} />
-      </div>
-    </section>
-
-    {/* BOTTOM REMINDER TEXT */}
-    <section className="section">
-      <div className='container' style={{'margin-top':'-8rem'}}>
-        <div className="Content">
-            <Content source={joinBottomText} />
-        </div>
-        <div className="container CenterButton Dues">
-          <a href={paypalLink} className="Button Dues">Pay Dues</a>
-        </div>
-      </div>
-    </section>
-
-
 
     <section className="section">
       <div className="container">
@@ -67,19 +44,19 @@ export const JoinPageTemplate = ({
   </main>
 )
 
-const JoinPage = ({ data: { page } }) => (
+const ScholarshipsPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <JoinPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <ScholarshipsPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default JoinPage
+export default ScholarshipsPage
 
 export const pageQuery = graphql`
-  query JoinPage($id: String!) {
+  query ScholarshipsPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery
@@ -89,9 +66,6 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        joinBottomText
-        formSection
-        paypalLink
       }
     }
   }

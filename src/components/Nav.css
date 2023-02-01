@@ -28,13 +28,15 @@
   margin-left: 1rem;
 }
 
+/* NOTE: Removed margin-right because I don't know what it is doing here */
 .Nav .Logo {
-  margin-right: 3rem;
+  /* margin-right: 3rem; */
   position: relative;
 }
 
 .Nav--MenuButton {
   display: none !important;
+  color: var(--darkGrey);
 }
 
 .NavLink {
@@ -115,10 +117,14 @@
   .Nav--MenuButton {
     display: block !important;
     margin-left: auto;
+    margin-top: -15rem;
     z-index: 1;
   }
   .Nav .Logo {
     z-index: 1;
+    margin: auto;
+    height: 200px;
+    width: 200px;
   }
 
   .Nav--Links {
@@ -127,6 +133,7 @@
     flex-direction: column;
     position: fixed;
     justify-content: center;
+    padding-top: 100px;
     top: 0;
     left: 0;
     right: 0;

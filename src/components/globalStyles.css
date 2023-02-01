@@ -1,5 +1,5 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #2e3591;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
@@ -355,18 +355,18 @@ blockquote {
 }
 
 /* Buttons */
-
+/* NOTE: CHANGED PADDING FROM 1.25rem 3rem TO 1.5rem 4rem */
 .Button {
   background: var(--primary);
   border: none;
   color: white;
-  padding: 1.25rem 3rem;
+  padding: 1.5rem 4rem;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 0.05em;
-  font-size: 1.4rem;
+  letter-spacing: 0.07em;
+  font-size: 1.8rem;
   display: inline-block;
   transition: all 0.2s ease;
   cursor: pointer;
@@ -392,9 +392,19 @@ blockquote {
   align-items: center;
   justify-content: center;
 }
+.Button.Dues {
+  padding: 1.5rem 6rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  font-size: 2.2rem;
+}
 
-.Center {
+.CenterButton {
   display: flex;
   justify-content: center;
   align-items: center;
-} 
+}
+
+.CenterButton.Dues {
+  margin-top: 3rem;
+}

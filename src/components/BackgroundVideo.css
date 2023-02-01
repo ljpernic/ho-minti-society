@@ -15,7 +15,7 @@
 }
 
 .BackgroundVideo video {
-  object-fit: cover;
+  object-fit: fill;
   height: 100%;
   width: 100%;
 }
@@ -38,7 +38,8 @@
   width: 100%;
   text-align: center;
   color: white;
-  text-shadow: 1px 1px 1px grey;
+  text-shadow: .5px .5px 1px blue, 0 0 .3em blue;
+  background-color: rgba(0, 0, 0, .9);
 }
 
 .Poster--videoTitle {

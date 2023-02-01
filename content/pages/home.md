@@ -23,10 +23,10 @@ projectImage01:
     image: https://ucarecdn.com/ce923734-c0b4-4cdf-b0fb-ad893636f4e9/
     title: Basket weaving
 projectImage02:
-  - alt: umbrellas
+  - alt: Something
     image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
-    title: A bunch of umbrellas
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
+    title: Something title
+video: https://ga.video.cdn.pbs.org/videos/native-america/f83b68f9-f9fa-4d9b-8f41-c805088a14a4/2000055742/hd-16x9-mezzanine-1080p/ks4gxsia_h3-ss-a-gift-of-corn-to-the-choctaw-mp4-720p-3000k.mp4
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Click here to see all of our upcoming events!
 projectVideoExample: >-
@@ -41,6 +41,6 @@ meta:
 
 # Welcome to Ho Minti Society!
 
-*Ho Minti* is a Choctaw phrase meaning *y'all come*. As a non-profit community organization, Ho Minti Societys calls for a coming back together and returning to traditional American Indian ways of knowing and doing. The name also suggests a kind of in-gathering and renewal that we believe is necessary for our nation and culture to survive and prosper.
+*Ho Minti* is a Choctaw phrase meaning *y'all come*. As a non-profit community organization, Ho Minti Society calls for a coming back together and returning to traditional American Indian ways of knowing and doing. The name also suggests a kind of in-gathering and renewal that we believe is necessary for our nation and culture to survive and prosper.
 
 The purpose of Ho Minti Society is to promote cultural awareness, service, community organizing, and education in ways that respect traditional knowledge and the breadth of our history and heritage. We organize regular activities for members and the community at large.

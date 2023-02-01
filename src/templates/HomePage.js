@@ -41,7 +41,7 @@ export const HomePageTemplate = ({
 {/* JOIN BUTTON */}
     <div className='projectContainer'>
       <section className="buttonSection">
-        <div className="container Center">
+        <div className="container CenterButton">
           <a href="/join" className="Button">Join</a>
         </div>
       </section>
@@ -88,7 +88,7 @@ export const HomePageTemplate = ({
 {/* PROJECTS BUTTON */}
     <div className='projectContainer'>
       <section className="buttonSection">
-        <div className="container Center">
+        <div className="container CenterButton">
           <a href="/projects" className="Button">See all projects</a>
         </div>
       </section>
@@ -106,7 +106,7 @@ export const HomePageTemplate = ({
 {/* EVENTS BUTTON */}
 {/* <div className='projectContainer'>
       <section className="buttonSection">
-        <div className="container Center">
+        <div className="container CenterButton">
           <a href="/events" className="Button">See all events</a>
         </div>
       </section>

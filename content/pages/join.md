@@ -2,7 +2,7 @@
 template: JoinPage
 slug: join
 title: Ho Minti Society
-subtitle: Join us
+subtitle: Join Ho Minti Society
 featuredImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
 paypalLink: 'https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=B7MCVYKL3LXLQ&fbclid=IwAR232cSidtgMzXZfz4LzA69Ce4a4Kskj8BUReX9ZWNnecTZDFZzScb1liYU'
 joinBottomText: After you've submitted this form to become a member, the final step is to pay your dues. Don't forget to follow the Paypal link below in order to complete your membership! 
@@ -36,7 +36,7 @@ gallery:
 ---
 
 # Become a member
-Some text here...
+Some text here... The benefits of becoming a member and why it is important.
 
 # Full membership
 To qualify for full member, you must be eligible for enrollment in the Choctaw-Apache Tribe of Ebarb, or person of
@@ -50,13 +50,11 @@ pay annual dues of $25 per individual.
 Once you fill out the form...
 
 # How to join
-Joining is easy! Just submit the form below and then pay your dues through Paypal (at the link below) or by check or money 
-order payable to: 
+Joining is easy! Just submit the form below and then pay your dues through Paypal through the link beneath the form. If you'd rather print it out, you can also find [the form at this link](https://drive.google.com/uc?export=download&id=1l2vawLWP3S3t7HBG_3Xydgs0aYJVNpRa). Just mail it with a check or money order to: 
 
 HO MINTI SOCIETY <br />
 886 Garcie Road <br />
 Zwolle, LA 71486 <br />
 
 # Already a member?
-If you're already a member and just have to pay your dues for the new year, you can skip right down to the paypal page below. 
-Just be sure to include your name in the "Special instructions" box so that we know who you are!
+After you've submitted the form to become a member, the final step is to pay your dues. Don't forget to follow the Paypal link below or send a check or money order to the address above to in order to maintain your membership! 
