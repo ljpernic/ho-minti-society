@@ -4,7 +4,8 @@ slug: join
 title: Ho Minti Society
 subtitle: Join us
 featuredImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
-joinBottomText: Don't forget to follow the Paypal link below in order to pay your dues and complete your membership! 
+paypalLink: 'https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=B7MCVYKL3LXLQ&fbclid=IwAR232cSidtgMzXZfz4LzA69Ce4a4Kskj8BUReX9ZWNnecTZDFZzScb1liYU'
+joinBottomText: After you've submitted this form to become a member, the final step is to pay your dues. Don't forget to follow the Paypal link below in order to complete your membership! 
 # video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 # videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 # videoTitle: Also background videos, with poster image & title overlay.
@@ -52,9 +53,9 @@ Once you fill out the form...
 Joining is easy! Just submit the form below and then pay your dues through Paypal (at the link below) or by check or money 
 order payable to: 
 
-HO MINTI SOCIETY 
-886 Garcie Road 
-Zwolle, LA 71486
+HO MINTI SOCIETY <br />
+886 Garcie Road <br />
+Zwolle, LA 71486 <br />
 
 # Already a member?
 If you're already a member and just have to pay your dues for the new year, you can skip right down to the paypal page below. 

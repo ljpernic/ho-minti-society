@@ -17,6 +17,7 @@ export const JoinPageTemplate = ({
   featuredImage,
   joinBottomText,
   formSection,
+  paypalLink,
   body,
   gallery,
 //  accordion,
@@ -50,7 +51,7 @@ export const JoinPageTemplate = ({
             <Content source={joinBottomText} />
         </div>
         <div className="container Center">
-          <a href="/projects" className="Button">Pay Dues</a>
+          <a href={paypalLink} className="Button">Pay Dues</a>
         </div>
       </div>
     </section>
@@ -90,6 +91,7 @@ export const pageQuery = graphql`
         featuredImage
         joinBottomText
         formSection
+        paypalLink
       }
     }
   }

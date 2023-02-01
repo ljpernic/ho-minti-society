@@ -1,6 +1,7 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
+  repo: ljpernic/ho-minti-society
   branch: master # Branch to update (optional; defaults to master)
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
@@ -229,7 +230,8 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Join Bottom Text, name: joinBottomText, widget: markdown }
-          - { label: Form Section, name: formSection, widget: markdown }          
+          - { label: Form Section, name: formSection, widget: markdown }  
+          - { label: Paypal Link, name: paypalLink, widget: markdown }          
           - { label: Body, name: body, widget: markdown }
           - { name: video, label: video, widget: file }
           - { name: videoPoster, label: videoPoster, widget: image }
@@ -330,9 +332,9 @@ collections: # A list of collections the CMS should be able to edit
               default: HomePage,
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: markdown, required: false }
-          - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Body, name: body, widget: markdown }
           - { label: Project 1, name: project01, widget: markdown }
           - { label: Project 2, name: project02, widget: markdown }     
