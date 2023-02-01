@@ -1,9 +1,8 @@
 siteTitle: Ho Minti Society
-siteUrl: 'https://ho-minti-society.netlify.app'
-siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+siteUrl: https://ho-minti-society.netlify.app
+siteDescription: A starter project for creating lightning-fast websites with
+  Gatsby v2 Netlify CMS v2 and Uploadcare media library.
 socialMediaCard:
-  image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
-googleTrackingId: 'UA-133175780-1'
-UPLOADCARE_PUBLIC_KEY: '1a455b51466494f0965e'
+  image: https://ucarecdn.com/b5ac6459-6538-4132-aab8-9e2cce465385/
+googleTrackingId: ""
+UPLOADCARE_PUBLIC_KEY: 1a455b51466494f0965e
