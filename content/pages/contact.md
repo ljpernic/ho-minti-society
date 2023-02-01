@@ -13,7 +13,7 @@ locations:
     mapLink: ""
 meta:
   description: Contact Ho Minti Society
-  title: Ho Minto Society
+  title: Ho Minti Society
   canonicalLink: ""
 ---
 
