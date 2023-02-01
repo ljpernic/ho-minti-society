@@ -27,7 +27,7 @@ projectImage02:
     image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
     title: Something title
 video: https://ga.video.cdn.pbs.org/videos/native-america/f83b68f9-f9fa-4d9b-8f41-c805088a14a4/2000055742/hd-16x9-mezzanine-1080p/ks4gxsia_h3-ss-a-gift-of-corn-to-the-choctaw-mp4-720p-3000k.mp4
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+videoPoster: https://image.pbs.org/video-assets/HQ8Dw5X-asset-mezzanine-16x9-RwPHCaM.jpg
 videoTitle: Click here to see all of our upcoming events!
 projectVideoExample: >-
   ## You can use videos, images and text.

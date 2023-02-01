@@ -3,11 +3,10 @@ import './Footer.css'
 
 export default () => (
   <div>
-    {/* <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+    <h2 className="taCenter" style={{'margin-top':'0.5em'}}>
+      Find us on{' '}
+      <a href="https://facebook.com/HoMintiSociety/">Facebook</a>.
     </h2>
-    <br /> */}
     <footer className="footer">
       <div className="container taCenter">
         <span>
