@@ -177,12 +177,6 @@ collections: # A list of collections the CMS should be able to edit
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: false }
           - { label: Past Projects, name: project05, widget: markdown }
-          - label: 'accordion'
-            name: 'accordion'
-            widget: 'list'
-            fields:
-              - { name: title, label: title, widget: string, default: '' }
-              - { name: description, label: description, widget: string }
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'
