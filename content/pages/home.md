@@ -26,7 +26,7 @@ projectImage02:
   - alt: Something
     image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
     title: Something title
-backgroundImage: https://ucarecdn.com/8bbb0289-9b44-4e4c-963b-c6826aee5a35/
+backgroundImage: https://ucarecdn.com/c0ac1ba2-efa7-4aa1-a746-741ed79d591d/
 meta:
   description: ""
   title: Ho Minti Society
