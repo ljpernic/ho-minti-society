@@ -37,6 +37,7 @@ backgroundImageAlt: Ho Minti Society
 
 
 #   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+backgroundImage: https://ucarecdn.com/52dd2e63-9bc9-45da-8000-992bd27d7d54/
 meta:
   description: ""
   title: Ho Minti Society
