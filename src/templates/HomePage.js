@@ -126,6 +126,7 @@ export const HomePageTemplate = ({
     <section className="BackgroundImage-section section">
       <Link to="/events">
         <Image 
+          resolutions="large"
           src={backgroundImage}
           alt={backgroundImageAlt}
          />
