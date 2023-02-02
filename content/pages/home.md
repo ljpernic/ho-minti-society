@@ -40,7 +40,6 @@ backgroundImageAlt: Ho Minti Society
 meta:
   description: ""
   title: Ho Minti Society
-imageTitle: Click here to see all of our upcoming events!
 ---
 
 # Welcome to Ho Minti Society!
