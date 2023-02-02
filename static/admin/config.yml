@@ -151,6 +151,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Featured Banner Image, name: featuredImage, widget: image }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Overview, name: body, widget: markdown }
           - { label: First Project, name: project01, widget: markdown }
           - label: 'First Project Image'
             name: 'projectImage01'
@@ -175,8 +176,7 @@ collections: # A list of collections the CMS should be able to edit
               - { name: image, label: Image, widget: image }
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: false }
-          - { label: Old Projects, name: project05, widget: markdown }
-          - { label: Body, name: body, widget: markdown }
+          - { label: Past Projects, name: project05, widget: markdown }
           - label: 'accordion'
             name: 'accordion'
             widget: 'list'
