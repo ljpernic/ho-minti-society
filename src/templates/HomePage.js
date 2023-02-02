@@ -7,8 +7,12 @@ import ProjectImage01 from '../components/ProjectImage01'
 import ProjectImage02 from '../components/ProjectImage02'
 import Layout from '../components/Layout'
 import { Link } from 'gatsby'
+import Image from '../components/Image'
 
-import BackgroundVideo from '../components/BackgroundVideo'
+import '../components/BackgroundImage.css'
+
+// import BackgroundImage from '../components/BackgroundImage'
+// import BackgroundVideo from '../components/BackgroundVideo'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ 
@@ -19,9 +23,8 @@ export const HomePageTemplate = ({
   project02, 
   projectImage01,
   projectImage02,
-  video,
-  videoPoster,
-  videoTitle,
+  imageTitle,
+  backgroundImage,
   body }) => (
   <main className="Home">
     <PageHeader
@@ -111,12 +114,22 @@ export const HomePageTemplate = ({
         </div>
       </section>
     </div> */}
-
 {/* VIDEO EVENTS SECTION */}
-<section className="BackgroundVideo-section section">
+{/* <section className="BackgroundVideo-section section">
       <Link to="/events"><BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
         {video && <source src={video} type="video/mp4" />}
       </BackgroundVideo></Link>
+    </section> */}
+
+{/* BOTTOM IMAGE SECTION */}
+    <section className="BackgroundImage-section section">
+      <Link to="/events">
+        <Image 
+          resolutions="large"
+          src={backgroundImage}
+          alt='some text'
+         />
+      </Link>
     </section>
 
   </main>
@@ -150,9 +163,8 @@ export const pageQuery = graphql`
         featuredImage
         project01
         project02
-        video
-        videoPoster
-        videoTitle
+        imageTitle
+        backgroundImage
       }
     }
   }

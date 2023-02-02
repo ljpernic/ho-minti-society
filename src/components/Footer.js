@@ -3,7 +3,7 @@ import './Footer.css'
 
 export default () => (
   <div>
-    <h2 className="taCenter" style={{'margin-top':'0.5em'}}>
+    <h2 className="taCenter" style={{'marginTop':'0.5em'}}>
       Find us on{' '}
       <a href="https://facebook.com/HoMintiSociety/">Facebook</a>.
     </h2>

@@ -1,0 +1,56 @@
+.BackgroundImage-section {
+  position: relative;
+  overflow: hidden;
+  height: 40rem;
+  margin: 4rem 0 0 0;
+}
+.BackgroundImage {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.BackgroundImage image {
+  object-fit: fill;
+  height: 100%;
+  width: 100%;
+}
+
+.BackgroundImage--image {
+  transition: all 0.2s ease;
+  opacity: 0;
+}
+.BackgroundImage--image.playing {
+  opacity: 1;
+}
+
+.BackgroundImage--imageTitle {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+  font-size: 4rem;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+  color: white;
+  text-shadow: .5px .5px 1px blue, 0 0 .3em blue;
+  background-color: rgba(0, 0, 0, .9);
+}
+
+.Poster--imageTitle {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+  font-size: 2rem;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 1px grey;
+}
