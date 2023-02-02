@@ -109,9 +109,9 @@ collections: # A list of collections the CMS should be able to edit
               default: EventsIndex,
             }
           - { label: Slug, name: slug, widget: hidden, default: 'events' }
+          - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: markdown }
-          - { label: Featured Image, name: featuredImage, widget: image }
           - label: 'Meta'
             required: false
             name: 'meta'
@@ -148,13 +148,34 @@ collections: # A list of collections the CMS should be able to edit
               default: ProjectsPage,
             }
           - { label: Slug, name: slug, widget: hidden, default: 'projects' }
+          - { label: Featured Banner Image, name: featuredImage, widget: image }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: markdown }
-          - { label: Featured Images, name: featuredImage, widget: image }
-          - { label: Project 1, name: project01, widget: markdown }
-          - { label: Project 2, name: project02, widget: markdown }
-          - { label: Project 3, name: project03, widget: markdown }
-          - { label: Project 5, name: project05, widget: markdown }
+          - { label: First Project, name: project01, widget: markdown }
+          - label: 'First Project Image'
+            name: 'projectImage01'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: false }          
+          - { label: Section Project, name: project02, widget: markdown }
+          - label: 'Second Project Image'
+            name: 'projectImage02'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: false }
+          - { label: Third Project, name: project03, widget: markdown }
+          - label: 'Third Project Image'
+            name: 'projectImage03'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: false }
+          - { label: Old Projects, name: project05, widget: markdown }
           - { label: Body, name: body, widget: markdown }
           - label: 'accordion'
             name: 'accordion'
@@ -162,27 +183,6 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { name: title, label: title, widget: string, default: '' }
               - { name: description, label: description, widget: string }
-          - label: 'ProjectImage01'
-            name: 'projectImage01'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
-          - label: 'ProjectImage02'
-            name: 'projectImage02'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
-          - label: 'ProjectImage03'
-            name: 'projectImage03'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: false }
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'
