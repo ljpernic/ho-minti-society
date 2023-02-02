@@ -25,6 +25,7 @@ export const HomePageTemplate = ({
   projectImage02,
   imageTitle,
   backgroundImage,
+  backgroundImageAlt,
   body }) => (
   <main className="Home">
     <PageHeader
@@ -125,9 +126,8 @@ export const HomePageTemplate = ({
     <section className="BackgroundImage-section section">
       <Link to="/events">
         <Image 
-          resolutions="large"
           src={backgroundImage}
-          alt='some text'
+          alt={backgroundImageAlt}
          />
          <div className="BackgroundImage--imageTitle">{imageTitle}</div>
       </Link>
@@ -166,6 +166,7 @@ export const pageQuery = graphql`
         project02
         imageTitle
         backgroundImage
+        backgroundImageAlt
       }
     }
   }

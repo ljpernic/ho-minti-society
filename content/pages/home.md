@@ -28,6 +28,7 @@ projectImage02:
     title: Something title
 imageTitle: Click here to see all of our upcoming events!
 backgroundImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
+backgroundImageAlt: Ho Minti Society
 # video: https://ga.video.cdn.pbs.org/videos/native-america/f83b68f9-f9fa-4d9b-8f41-c805088a14a4/2000055742/hd-16x9-mezzanine-1080p/ks4gxsia_h3-ss-a-gift-of-corn-to-the-choctaw-mp4-720p-3000k.mp4
 # videoPoster: https://image.pbs.org/video-assets/HQ8Dw5X-asset-mezzanine-16x9-RwPHCaM.jpg
 # videoTitle: Click here to see all of our upcoming events!
