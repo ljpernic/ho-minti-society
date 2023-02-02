@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
+featuredImage: https://ucarecdn.com/91bb9446-12c4-499c-b75e-d9b1456e0ceb/
 title: Ho Minti Society
 subtitle: An Indigenous community organization
-featuredImage: https://ucarecdn.com/91bb9446-12c4-499c-b75e-d9b1456e0ceb/
 project01: >-
   ## Traditional Indigenous arts
 
@@ -26,19 +26,11 @@ projectImage02:
   - alt: Something
     image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
     title: Something title
-imageTitle: Click here to see all of our upcoming events!
-backgroundImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
-# video: https://ga.video.cdn.pbs.org/videos/native-america/f83b68f9-f9fa-4d9b-8f41-c805088a14a4/2000055742/hd-16x9-mezzanine-1080p/ks4gxsia_h3-ss-a-gift-of-corn-to-the-choctaw-mp4-720p-3000k.mp4
-# videoPoster: https://image.pbs.org/video-assets/HQ8Dw5X-asset-mezzanine-16x9-RwPHCaM.jpg
-# videoTitle: Click here to see all of our upcoming events!
-# projectVideoExample: >-
-#   ## You can use videos, images and text.
-
-
-#   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+backgroundImage: https://ucarecdn.com/8bbb0289-9b44-4e4c-963b-c6826aee5a35/
 meta:
   description: ""
   title: Ho Minti Society
+imageTitle: Click here to see all of our upcoming events!
 ---
 
 # Welcome to Ho Minti Society!
