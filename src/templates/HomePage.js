@@ -129,6 +129,7 @@ export const HomePageTemplate = ({
           src={backgroundImage}
           alt='some text'
          />
+         <div className="BackgroundImage--imageTitle">{imageTitle}</div>
       </Link>
     </section>
 
