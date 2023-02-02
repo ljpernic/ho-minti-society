@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
+featuredImage: https://ucarecdn.com/91bb9446-12c4-499c-b75e-d9b1456e0ceb/
 title: Ho Minti Society
 subtitle: An Indigenous community organization
-featuredImage: https://ucarecdn.com/91bb9446-12c4-499c-b75e-d9b1456e0ceb/
 project01: >-
   ## Traditional Indigenous arts
 
@@ -26,6 +26,7 @@ projectImage02:
   - alt: Something
     image: https://ucarecdn.com/e478c570-8b0d-4c7f-8537-9c096b342c50/
     title: Something title
+<<<<<<< HEAD
 imageTitle: Click here to see all of our upcoming events!
 backgroundImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
 backgroundImageAlt: Ho Minti Society
@@ -37,9 +38,13 @@ backgroundImageAlt: Ho Minti Society
 
 
 #   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+backgroundImage: https://ucarecdn.com/52dd2e63-9bc9-45da-8000-992bd27d7d54/
+>>>>>>> af59508c3d71e3114b0da0efb2a24b1170ecfed5
 meta:
   description: ""
   title: Ho Minti Society
+imageTitle: Click here to see all of our upcoming events!
 ---
 
 # Welcome to Ho Minti Society!
