@@ -3,9 +3,11 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+// NOTE: Removed FormSimpleAjax because we are using cognitoforms for the contact form.
+//import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
-import GoogleMap from '../components/GoogleMap'
+// NOTE: See note below.
+// import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
 
@@ -15,6 +17,7 @@ export const ContactPageTemplate = ({
   title,
   subtitle,
   featuredImage,
+  formSection,
   address,
   phone,
   email,
@@ -26,10 +29,24 @@ export const ContactPageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+
+    {/* TOP SECTION */}
+    <section className="topSection">
+      <div className="container">
+        <Content source={body} />
+      </div>
+    </section>
+
+  {/* FORM SECTION */}
+    <section className="noLineSection">
+      <div className="container">
+        <Content source={formSection} />
+      </div>
+    </section>
+
+  {/* CONTACT DETAILS SECTION */}
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
-        <div>
-          <Content source={body} />
           <div className="Contact--Details">
             {address && (
               <a
@@ -54,15 +71,11 @@ export const ContactPageTemplate = ({
               </a>
             )}
           </div>
-        </div>
-
-        <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
-        </div>
       </div>
     </section>
 
-    <GoogleMap locations={locations} />
+{/* NOTE: Hid the GoogleMap thing because it seems unnecessary */}
+    {/* <GoogleMap locations={locations} /> */}
   </main>
 )
 
@@ -87,6 +100,7 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
+        formSection
         address
         phone
         email
