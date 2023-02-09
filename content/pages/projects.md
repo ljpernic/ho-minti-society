@@ -7,26 +7,32 @@ featuredImage: https://ucarecdn.com/ab3ff31b-b5f1-4177-8f9d-851fc62857d8/
 project01: >-
   ## Traditional Indigenous arts
 
-  We pride ourselves on keeping the ancient practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to create beadwork and stitchwork, make moccasins, and weave pine needle baskets. Traditionally... 
+  We pride ourselves on keeping the practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to practice beading, stitchwork, moccasin sewing, pine needle basketry, and other crafts.
 
 
   Check out [our events page](/events) for upcoming meetings!
 project02: >-
   ## Scholarships
 
-  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. Ho Minti Society...
+  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. One of Ho Minti Society’s purpose is to support education. 
 
 
-  If you meet whatever the criteria are for applying to these scholarships, please see [our scholarship page](/scholarships) for more details.
+  Please see [our scholarship page](/scholarships) for criteria and more details. 
 project03: >-
   ## Self-defence
 
-  Indigenous women and girls face a staggering onslaught of personal violence... A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  Indigenous women and girls face a staggering onslaught of personal violence.
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor.
-project05: Past projects/activities that we can still highlight... Bream
-  fishing... Probably other things...
+  The murder rate of Indigenous women is three times higher than non-Native women. It is the third leading cause of death for Indigenous women; over 85 percent of them have experienced violence and historical trauma. 
+
+
+  Our ancestors lived in matrilineal and matrilocal societies where women were respected as sacred life-givers.  We must work diligently to end cultures of toxic misogyny and lateral violence. 
+
+
+  We support the [Missing and Murdered Indigenous Women (MMIW) movement](https://www.facebook.com/mmiw.tx.rematriate?mibextid=LQQJ4d). We also promote women’s self-defense training.
+project05:
+  Ho Minti Society has also carried out numerous other projects, from...
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -70,4 +76,4 @@ projectVideoExample: >-
 
 # This is a list of ongoing projects we do
 
-This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. This is the body for the projects page. 
+In addition to monthly business meetings, we strive to host online programming or in-person events every month. 

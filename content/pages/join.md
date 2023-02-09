@@ -36,18 +36,13 @@ gallery:
 ---
 
 # Become a member
-Some text here... The benefits of becoming a member and why it is important.
+The vital work of Ho Minti Society depends on donations and member volunteers. We hope that you will join us and/or make a financial contribution. 
 
 # Full membership
-To qualify for full member, you must be eligible for enrollment in the Choctaw-Apache Tribe of Ebarb, or person of
-Choctaw-Apache descent and approved by the Ho Minti Society Board of Directors, commit to volunteering for three
-events per year or organizing and hosting one event per year, and pay annual dues of $25.
+To qualify for full member, you must be eligible for enrollment in the Choctaw-Apache Tribe of Ebarb or be a person of Choctaw-Apache descent and approved by the Ho Minti Society Board of Directors. You must also commit to volunteering for three events per year or organizing and hosting one event per year, and pay annual dues of $25.
 
 # Associate membership
-Associate members support the mission of the organization, participate actively in the organization’s activities, and
-pay annual dues of $25 per individual.
-
-Once you fill out the form...
+Associate members support the mission of the organization, participate in the organization’s activities, and pay annual dues of $25 per individual. 
 
 # How to join
 Joining is easy! Just submit the form below and then pay your dues through Paypal through the link beneath the form. If you'd rather print it out, you can also find [the form at this link](https://drive.google.com/uc?export=download&id=1l2vawLWP3S3t7HBG_3Xydgs0aYJVNpRa). Just mail it with a check or money order to: 

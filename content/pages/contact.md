@@ -21,6 +21,4 @@ meta:
 
 # Contact Us
 
-This is filler text!
-
-Have questions? Contact us using the form below! We can also be reached at homintisociety@gmail.com.
+Have questions or comments? Contact us using the form below!

@@ -105,3 +105,40 @@ Email application to HoMintiSociety@gmail.com no later than April 15, 2023 or ma
 HO MINTI SOCIETY SCHOLARSHIPS <br /> 
 886 Garcie Road <br />
 Zwolle, LA 71486
+
+# External scholarships
+
+In addition to scholarships offered by Ho Minti Society, tribal members are also eligible for a number of external scholarships:
+
+<ul>
+  <li>
+    <a href="https://collegefund.org/students/scholarships/">American Indian College Fund</a>
+    <ul>
+      <li>
+        Open now
+      </li>
+      <li>
+        Deadline January 30th 2024 
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://gov.louisiana.gov/page/indian-affairs">Louisiana Office of Indian Affairs Scholarship</a>
+    <ul>
+      <li>
+        Opens March 1st
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://www.indian-affairs.org/nativescholarship.html">Association on American Indian Affairs</a>
+    <ul>
+      <li>
+        Open now
+      </li>
+      <li>
+        Deadline May 31st 2023 
+      </li>
+    </ul>
+  </li>
+</ul>

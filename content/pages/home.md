@@ -7,17 +7,16 @@ subtitle: An Indigenous community organization
 project01: >-
   ## Traditional Indigenous arts
 
-  We pride ourselves on keeping the ancient practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to practice beading, stitchwork, and pine needle basketry. Traditionally... 
-
+  We pride ourselves on keeping the practices of our ancestors alive, and we host regular meetings at which experts and novices alike come together to practice beading, stitchwork, moccasin sewing, pine needle basketry, and other crafts.
 
   Check out [our events page](/events) for upcoming meetings!
 project02: >-
   ## Scholarships
 
-  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. Ho Minti Society...
+  Indigenous communities have long been segregated from the structures of social, political, and economic power, and one of the ways in which that segregation has played out has been through the unequal access of education for Indigenous youth. One of Ho Minti Society’s purpose is to support education. 
 
 
-  If you meet whatever the criteria are for applying to these scholarships, please see [our scholarship page](/scholarships) for more details.
+  Please see [our scholarship page](/scholarships) for criteria and more details. 
 projectImage01:
   - alt: Basket weaving
     image: https://ucarecdn.com/ce923734-c0b4-4cdf-b0fb-ad893636f4e9/
