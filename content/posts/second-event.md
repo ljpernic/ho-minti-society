@@ -17,10 +17,6 @@ meta:
   noindex: false
   title: Intertribal Meeting to Learn Regalia Making
 ---
-Paragraphs are separated by a blank line.
-
-![processing](https://ucarecdn.com/835f896e-f258-443d-838f-615924e226c4/)
-
 <!--StartFragment-->
 
 Youth and Parents get ready for Spring powwows by learning to make dance regalia. This is an ongoing series and is Intertribal (parents and youth from other tribes welcome). This event will be focused on signing up those interested in getting regalia together and measuring for sizes.
@@ -32,3 +28,5 @@ Parents, guardians, or other responsible adult are expected to attend and partic
 Ho Minti Society is conducting these workshops and covering most material costs with a generous grant from Cane River National Heritage Area.
 
 <!--EndFragment-->
+
+![processing](https://ucarecdn.com/835f896e-f258-443d-838f-615924e226c4/)
