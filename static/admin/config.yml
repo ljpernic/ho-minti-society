@@ -274,8 +274,6 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
           - { label: Subtitle, name: subtitle, widget: markdown }
-          - { label: Form Section, name: formSection, widget: markdown }  
-          - { label: Paypal Link, name: paypalLink, widget: markdown }          
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'

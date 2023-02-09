@@ -31,7 +31,7 @@ gallery:
     title: ""
 ---
 
-An introductory paragraph about the scholarships on offer and also why Ho Minti Society supports students...
+One of Ho Minti Society’s purposes is to promote cultural awareness and education. For scholarships sponsored by your tribal nation, please contact tribal government directly.
 
 # 2023 Ho Minti Society Kenneth Garcie Memorial Scholarship
 #### Award amount
