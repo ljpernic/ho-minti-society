@@ -1,54 +1,34 @@
 ---
 template: SinglePost
-title: Second event
+title: Intertribal Meeting to Learn Regalia Making
 status: Featured / Published
-date: 2023-01-02
+date: 2023-01-29
 featuredImage: https://ucarecdn.com/e8b853dd-0c86-4cdf-8609-e46daddff93b/
-excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
-  Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
-  lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+excerpt: Youth and Parents get ready for Spring powwows by learning to make
+  dance regalia. This is an ongoing series and is Intertribal (parents and youth
+  from other tribes welcome). This event will be focused on signing up those
+  interested in getting regalia together and measuring for sizes.
 meta:
   canonicalLink: ""
-  description: test meta description
+  description: Youth and Parents get ready for Spring powwows by learning to make
+    dance regalia. This is an ongoing series and is Intertribal (parents and
+    youth from other tribes welcome). This event will be focused on signing up
+    those interested in getting regalia together and measuring for sizes.
   noindex: false
-  title: test meta title
+  title: Intertribal Meeting to Learn Regalia Making
 ---
 Paragraphs are separated by a blank line.
 
-![processing a thing](https://ucarecdn.com/835f896e-f258-443d-838f-615924e226c4/)
+![processing](https://ucarecdn.com/835f896e-f258-443d-838f-615924e226c4/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--StartFragment-->
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. *Italic*, **bold**, and `monospace`.
+Youth and Parents get ready for Spring powwows by learning to make dance regalia. This is an ongoing series and is Intertribal (parents and youth from other tribes welcome). This event will be focused on signing up those interested in getting regalia together and measuring for sizes.
 
-### Unordered lists:
+**St. Ann's Church at 1 PM SUNDAY Jan 29**
 
-* this one
-* that one
-* the other one
+Parents, guardians, or other responsible adult are expected to attend and participate in the process. Future workshops will include flat turkey fans, shawl making, and other articles of regalia.
 
-### Ordered lists:
+Ho Minti Society is conducting these workshops and covering most material costs with a generous grant from Cane River National Heritage Area.
 
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+<!--EndFragment-->
