@@ -8,6 +8,8 @@ excerpt: Youth and Parents get ready for Spring powwows by learning to make
   dance regalia. This is an ongoing series and is Intertribal (parents and youth
   from other tribes welcome). This event will be focused on signing up those
   interested in getting regalia together and measuring for sizes.
+categories:
+  - category: Workshops
 meta:
   canonicalLink: ""
   description: Youth and Parents get ready for Spring powwows by learning to make
