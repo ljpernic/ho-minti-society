@@ -1,7 +1,6 @@
 ---
 template: EventsIndex
 title: Workshops
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+subtitle: ""
+featuredImage: https://ucarecdn.com/4f4b8451-a145-4c45-bb84-9426acf60971/
 ---
-
