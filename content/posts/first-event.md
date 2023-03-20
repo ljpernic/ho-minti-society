@@ -11,7 +11,7 @@ excerpt: >-
 
   Hi everyone, here is a sign up for this to make sure we have a good student-teacher ratio! Due to our funding, first priority goes to NSU Native American Student Association students (Any student can be a member! You are not required to be Native) We will open remaining spots to the public after Oct. 10.
 categories:
-  - category: News
+  - category: Workshops
 meta:
   description: Beading Workshop
   title: Beading Workshop
