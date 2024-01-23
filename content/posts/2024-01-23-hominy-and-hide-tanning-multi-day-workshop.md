@@ -29,3 +29,5 @@ J﻿oin Ho Minti Society for a workshop on how to tan hides and prepare hominy!
 **Where:** 122 Georges Loop, Many, Louisiana 71449
 
 [C﻿lick here to RSVP!](https://docs.google.com/forms/d/e/1FAIpQLSdjm_gly-2Dt8tiZc5HMA-oitsdMA1BDPjQ9quusIl7qnkdsg/viewform?usp=sf_link)
+
+![Rhonda making Hominy, Ho Minti Society](https://ucarecdn.com/ba7ae584-9bff-4c29-9e53-8d60af9eb75f/ "Hominy")
