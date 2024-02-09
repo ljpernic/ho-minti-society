@@ -3,7 +3,7 @@ template: ScholarshipsPage
 slug: scholarships
 featuredImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
 title: Ho Minti Society
-subtitle: A﻿pply today!
+subtitle: Scholarships
 gallery:
   - alt: Tree
     image: https://ucarecdn.com/a5345202-bedf-4c44-a634-00d273558035/
