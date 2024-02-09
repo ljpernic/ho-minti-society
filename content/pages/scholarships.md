@@ -3,7 +3,7 @@ template: ScholarshipsPage
 slug: scholarships
 featuredImage: https://ucarecdn.com/0b576d05-6d5c-470a-9ddc-bbbcf58659eb/
 title: Ho Minti Society
-subtitle: Scholarships offered by Ho Minti Society
+subtitle: A﻿pply today!
 gallery:
   - alt: Tree
     image: https://ucarecdn.com/a5345202-bedf-4c44-a634-00d273558035/
@@ -20,7 +20,7 @@ meta:
 ---
 One of Ho Minti Society’s purposes is to promote cultural awareness and education. For scholarships sponsored by your tribal nation, please contact tribal government directly.
 
-# 2023 Ho Minti Society Kenneth Garcie Memorial Scholarship
+# 2024 Ho Minti Society Kenneth Garcie Memorial Scholarship
 
 #### Award amount
 
@@ -36,7 +36,7 @@ $300
 
 #### Documents required
 
-* [Application](https://drive.google.com/uc?export=download&id=17fnvIX1elNsUYwax3sCEL8HGS4m3WSaW)
+* [Application](https://drive.google.com/uc?export=download&id=194LhtrUApud_uCDCwsUnyuOF9xg5SYvJ)
 * High School Transcripts or School-verified GPA
 * Essay 
 
@@ -44,13 +44,13 @@ $300
 
 *Please be advised: Ho Minti Society may use your essay or parts of it in promotional materials.*
 
-Email application to HoMintiSociety@gmail.com no later than April 15, 2023 or mail hard copy postmarked no later than April 7 to:
+Email application to HoMintiSociety@gmail.com no later than April 13, 2024 or mail hard copy postmarked no later than April 6 to:
 
 HO MINTI SOCIETY SCHOLARSHIPS <br /> 
 886 Garcie Road <br />
 Zwolle, LA 71486
 
-# 2023 General Scholarship
+# 2024 General Scholarship
 
 #### Award amount
 
@@ -64,7 +64,7 @@ $300
 
 #### Documents required
 
-* [Application](https://drive.google.com/uc?export=download&id=1Yna1Ij0QiAmDy1OKQBS079Ciu3eXpXW0)
+* [Application](https://drive.google.com/uc?export=download&id=197-xs7DeqfguguU0CUPJ5VclPEdyKBDT)
 * High School Transcripts or School-verified GPA
 * Essay 
 
@@ -72,13 +72,13 @@ $300
 
 *Please be advised: Ho Minti Society may use your essay or parts of it in promotional materials.*
 
-Email application to HoMintiSociety@gmail.com no later than April 15, 2023 or mail hard copy postmarked no later than April 7 to:
+Email application to HoMintiSociety@gmail.com no later than April 13, 2024 or mail hard copy postmarked no later than April 6 to:
 
 HO MINTI SOCIETY SCHOLARSHIPS <br /> 
 886 Garcie Road <br />
 Zwolle, LA 71486
 
-# 2023 American Indian Studies Scholarship
+# 2024 American Indian Studies Scholarship
 
 #### Award amount
 
@@ -92,7 +92,7 @@ $300
 
 #### Documents required
 
-* [Application](https://drive.google.com/uc?export=download&id=1fCST5BKC7Zd9ELgHGxRWJ8jhHq-qsHf9)
+* [Application](https://drive.google.com/uc?export=download&id=196hjfav-_epGUX2OiBuwqWmUyL7sZZPn)
 * High School Transcripts or School-verified GPA
 * Essay 
 
@@ -100,7 +100,7 @@ $300
 
 *Please be advised: Ho Minti Society may use your essay or parts of it in promotional materials.*
 
-Email application to HoMintiSociety@gmail.com no later than April 15, 2023 or mail hard copy postmarked no later than April 7 to:
+Email application to HoMintiSociety@gmail.com no later than April 13, 2024 or mail hard copy postmarked no later than April 6 to:
 
 HO MINTI SOCIETY SCHOLARSHIPS <br /> 
 886 Garcie Road <br />
@@ -113,32 +113,11 @@ In addition to scholarships offered by Ho Minti Society, tribal members are also
 <ul>
   <li>
     <a href="https://collegefund.org/students/scholarships/">American Indian College Fund</a>
-    <ul>
-      <li>
-        Open now
-      </li>
-      <li>
-        Deadline January 30th 2024 
-      </li>
-    </ul>
   </li>
   <li>
     <a href="https://gov.louisiana.gov/page/indian-affairs">Louisiana Office of Indian Affairs Scholarship</a>
-    <ul>
-      <li>
-        Opens March 1st
-      </li>
-    </ul>
   </li>
   <li>
     <a href="https://www.indian-affairs.org/nativescholarship.html">Association on American Indian Affairs</a>
-    <ul>
-      <li>
-        Open now
-      </li>
-      <li>
-        Deadline May 31st 2023 
-      </li>
-    </ul>
   </li>
 </ul>
